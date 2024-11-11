@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sophy Kgoahla computer science student at University of Johannesburg
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Sophy Kgoahla computer science graduate 
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on Data analysis/science/ML projects
 - 📫 How to reach me ,email 219069615@student.uj.ac.za
 
 <!---
